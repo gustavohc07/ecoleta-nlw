@@ -1,0 +1,6 @@
+[submodule "nlw-server"]
+	path = nlw-server
+	url = https://github.com/gustavohc07/nlw-server.git
+[submodule "nlw-web"]
+	path = nlw-web
+	url = https://github.com/gustavohc07/nlw-web.git
