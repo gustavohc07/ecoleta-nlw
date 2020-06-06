@@ -4,3 +4,6 @@
 [submodule "nlw-web"]
 	path = nlw-web
 	url = https://github.com/gustavohc07/nlw-web.git
+[submodule "nlw-mobile"]
+	path = nlw-mobile
+	url = https://github.com/gustavohc07/nlw-mobile.git
